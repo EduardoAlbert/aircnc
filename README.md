@@ -99,7 +99,7 @@ $ yarn server dev
 _Obs.: Before to continue, be sure to have the API running_
 
 ```bash
-# Be sure the file 'packages/web/src/services/api.js'
+# Be sure the file 'packages/frontend/src/services/api.js'
 # have the IP to your API
 
 # Start the client
